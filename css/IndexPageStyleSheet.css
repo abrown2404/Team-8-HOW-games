@@ -1,0 +1,183 @@
+/* Phones */
+@media only screen and (max-width:480px) {
+   body {
+      background-color: dimgrey;    
+   }
+   
+   h1 {
+      color: mediumorchid;
+      margin: 0;
+      font-style: bold;
+      font-style: italic;
+   }
+   
+   h3 {
+      color: mediumorchid;
+      font-style: italic;
+   }
+   
+   img {
+      /* border: 5px solid mediumorchid; */
+      max-width: 150px;
+      height: auto;
+   }
+   
+   audio {
+      float: right;
+      background-color: mediumorchid;
+   }
+   
+   .text {
+      background-color: mediumorchid;
+   }
+   
+   .linktext {
+      color: mediumorchid;
+   }
+
+   .main-timeline {
+      text-align: center;
+   }
+
+   .timeline-cluster {
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .timeline-game {
+      margin: 5px;
+      padding: 10px;
+      display: inline-block;
+   }
+
+   .header {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+   }
+}
+
+/* Tablet */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+   body {
+      background-color: dimgrey;    
+   }
+   
+   h1 {
+      color: mediumorchid;
+      margin: 0;
+      font-style: bold;
+      font-style: italic;
+   }
+   
+   h3 {
+      color: mediumorchid;
+      font-style: italic;
+   }
+   
+   img {
+      /* border: 5px solid mediumorchid; */
+      max-width: 200px;
+      height: auto;
+   }
+   
+   audio {
+      float: right;
+      background-color: mediumorchid;
+   }
+   
+   .text {
+      background-color: mediumorchid;
+   }
+   
+   .linktext {
+      color: mediumorchid;
+   }
+
+   .main-timeline {
+      text-align: center;
+   }
+
+   .timeline-cluster {
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .timeline-game {
+      margin: 5px;
+      padding: 10px;
+      display: inline-block;
+   }
+
+   .header {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+   }
+}
+
+/* Desktop */
+@media only screen and (min-width: 769px) {
+   body {
+      background-color: dimgrey;    
+   }
+   
+   h1 {
+      color: mediumorchid;
+      margin: 0;
+      font-style: bold;
+      font-style: italic;
+   }
+   
+   h3 {
+      color: mediumorchid;
+
+      font-style: italic;
+   }
+   
+   img {
+      /* border: 5px solid mediumorchid; */
+      max-width: 500px;
+      height: auto;
+   }
+   
+   audio {
+      float: right;
+      background-color: mediumorchid;
+   }
+   
+   .text {
+      background-color: mediumorchid;
+   }
+   
+   .linktext {
+      color: mediumorchid;
+   }
+
+   .main-timeline {
+      text-align: center;
+   }
+
+   .timeline-cluster {
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .timeline-game {
+      margin: 5px;
+      padding: 10px;
+      display: inline-block;
+   }
+
+   .header {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+   }
+}
