@@ -33,17 +33,11 @@
         text-align: center;
     }
 
-    .timeline-cluster {
-        margin-bottom: 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
     .timeline-game {
         margin: 5px;
         padding: 10px;
         display: inline-block;
+        width: 140px;
     }
 
     .header {
@@ -82,7 +76,7 @@
     }
 
     .slideshow-image {
-        height: 280px;
+        height: 140px;
     }
 
     .prev,
@@ -178,13 +172,6 @@
         text-align: center;
     }
 
-    .timeline-cluster {
-        margin-bottom: 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
     .timeline-game {
         margin: 5px;
         padding: 10px;
@@ -227,7 +214,7 @@
     }
 
     .slideshow-image {
-        height: 400px;
+        height: 250px;
     }
 
     .prev,
