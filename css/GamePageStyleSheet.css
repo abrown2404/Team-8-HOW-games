@@ -29,11 +29,26 @@
    }
    
    .text {
-      background-color: mediumorchid;
+      color: mediumorchid;
    }
    
    .linktext {
       color: mediumorchid;
+   }
+
+   .header {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+   }
+
+   .TitleText {
+      color: rgb(63, 114, 255);
+   }
+
+   button {
+      height:50px;
+      width:100px;
    }
 }
 
@@ -57,7 +72,6 @@
    }
    
    img {
-      float: left;
       width: 400px;
       height: auto;
    }
@@ -68,11 +82,15 @@
    }
    
    .text {
-      background-color: mediumorchid;
+      color: mediumorchid;
    }
    
    .linktext {
       color: mediumorchid;
+   }
+
+   .TitleText {
+      color: rgb(63, 114, 255);
    }
 }
 
@@ -96,7 +114,6 @@
    }
    
    img {
-      float: left;
       width: 200px;
       height: auto;
    }
@@ -107,11 +124,15 @@
    }
    
    .text {
-      background-color: mediumorchid;
+      color: mediumorchid;
    }
    
    .linktext {
       color: mediumorchid;
+   }
+
+   .TitleText {
+      color: rgb(63, 114, 255);
    }
 }
 
