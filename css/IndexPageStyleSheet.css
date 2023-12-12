@@ -130,6 +130,15 @@
     #randomGame {
         background-color: rgb(63, 114, 255);
     }
+
+    a {
+        text-decoration: none;
+      }
+      .randomGame {
+        margin-top: 15px;
+        width: 100px;
+        height: 60px;
+      }
 }
 
 /* Tablet */
@@ -266,17 +275,29 @@
     #randomGame {
         background-color: rgb(63, 114, 255);
     }
+
+    a {
+        text-decoration: none;
+      }
+      .randomGame {
+        margin-top: 15px;
+        width: 100px;
+        height: 60px;
+      }
 }
 
 /* Desktop */
 @media only screen and (min-width: 769px) {
+    *{
+        font-family: Verdana, sans-serif;
+     }
     body {
         background-color: rgb(48, 45, 45);
     }
 
     h1 {
         color: rgb(63, 114, 255);
-        margin: 0;
+        
         font-style: bold;
         font-style: italic;
     }
@@ -348,7 +369,7 @@
     }
 
     .slideshow-container {
-        width: 70%;
+        width: 80%;
         position: relative;
         margin: auto;
     }
@@ -402,4 +423,13 @@
     #randomGame {
         background-color: rgb(63, 114, 255);
     }
+
+    a {
+        text-decoration: none;
+      }
+      .randomGame {
+        margin-top: 15px;
+        width: 100px;
+        height: 60px;
+      }
 }
