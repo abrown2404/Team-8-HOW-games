@@ -1,5 +1,9 @@
 @media only screen and (min-width: 769px)
 {
+   *{
+      font-family: Verdana, sans-serif;
+   }
+   
    body {
       background-color: rgb(48, 45, 45);
       display: flex;
@@ -49,11 +53,16 @@
    button {
       height:50px;
       width:100px;
+      background-color: rgb(63, 114, 255);
    }
 }
 
 @media only screen and (min-width: 481px) and (max-width: 768px)
 {
+   *{
+      font-family: Verdana, sans-serif;
+   }
+   
    body {
       background-color: rgb(48, 45, 45);
       display: flex;
@@ -92,10 +101,18 @@
    .TitleText {
       color: rgb(63, 114, 255);
    }
+
+   button {
+      background-color: rgb(63, 114, 255);
+   }
 }
 
 @media only screen and (max-width:480px)
 {
+   *{
+      font-family: Verdana, sans-serif;
+   }
+   
    body {
       background-color: rgb(48, 45, 45);
       display: flex;
@@ -133,6 +150,10 @@
 
    .TitleText {
       color: rgb(63, 114, 255);
+   }
+
+   button {
+      background-color: rgb(63, 114, 255);
    }
 }
 
