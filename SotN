@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="../css/GamePageStyleSheet.css" rel="stylesheet"/>
+<title>SotN</title>
+</head>
+<body>
+<div>
+<h1>Castlevania: Symphony of the Night</h1>
+<div>
+<audio controls>
+  <source src="sotndra1" type="audio/mpeg">
+Either there is no audio file, or your browser does not support this audio file.
+</audio>
+</div>
+</div>
+<div>
+<img src="sotn.jpg" alt="Symphony of the Night Box Art">
+<div class = "text">
+<h3>Released on : March 20, 1997</h3>
+<p> Symphony of the Night is one of 2 games that spawned the Metroidvania genre, games known for nonlinear, looping level design that, while still technically linear, gave players the first feelings of autonomy and open-endedness in video games. It sees Dracula's son, Alucard, exploring his castle in an effort to find him and defeat him once and for all, with a mind-melting twist that changed the way players saw game worlds forever. </p>
+</div>
+</div>
+<div>
+<p class = "linktext"> You can find more information about the game here: 
+	<a href="https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night">Symphony of the Night Wikipedia Page</a>
+</p>
+</div>
+</body>
