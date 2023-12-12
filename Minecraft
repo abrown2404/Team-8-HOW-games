@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="../css/GamePageStyleSheet.css" rel="stylesheet"/>
+<title>Minecraft</title>
+</head>
+<body>
+<div>
+<h1>Minecraft</h1>
+<div>
+<audio controls>
+  <source src="sweden.mid" type="audio/mpeg">
+Either there is no audio file, or your browser does not support this audio file.
+</audio>
+</div>
+</div>
+<div>
+<img src="minecraft_cover.jpg" alt="Minecraft Box Art">
+<div class = "text">
+<h3>Released on : November 18, 2011</h3>
+<p> Minecraft needs no introduction. The best selling game of all time with 140 million active players more than a decade after release. Most of this success is attributed to the overwhelming creativity allowed to the player in Creative Mode, but let's not forget the achievements of Survival Mode. This mode essentially set the player in a procedurally generated open world, meaning every playthrough will be different, and just lets them go with no clear objective. This game is the logical end point of open level design. </p>
+</div>
+</div>
+<div>
+<p class = "linktext"> You can find more information about the game here: 
+	<a href="https://www.minecraft.net/en-us">Official Minecraft Website</a>
+</p>
+</div>
+</body>
