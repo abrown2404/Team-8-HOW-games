@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="../css/GamePageStyleSheet.css" rel="stylesheet"/>
+<title>Banjo-Kazooie</title>
+</head>
+<body>
+<div>
+<h1>Banjo-Kazooie</h1>
+<div>
+<audio controls>
+  <source src="Banjo-_Gruntilda's_Lair-_Banjos_Garden" type="audio/mpeg">
+Either there is no audio file, or your browser does not support this audio file.
+</audio>
+</div>
+</div>
+<div>
+<img src="b-kBoxArt.jpg" alt="Banjo-Kazooie Box Art">
+<div class = "text">
+<h3>Released on : June 29, 1998</h3>
+<p> Banjo-Kazooie takes the classic item-collecting formula from Super Mario 64 and pumps it full of steroids. Players must collect over a thousand items during their adventure to open all the twisting tunnels, polluted pipes, and tortuous passages that lead to the final confrontation with Gruntilda. </p>
+</div>
+</div>
+<div>
+<p class = "linktext"> You can find more information about the game here: 
+	<a href="https://web.archive.org/web/19990430002610/http://www.banjo-kazooie.com/intro/index.html">Official Banjo-Kazooie Website from 1999</a>
+</p>
+</div>
+</body>
