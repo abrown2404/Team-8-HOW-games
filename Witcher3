@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="../css/GamePageStyleSheet.css" rel="stylesheet"/>
+<title>Witcher3</title>
+</head>
+<body>
+<div>
+<h1>The Witcher 3: Wild Hunt</h1>
+<div>
+<audio controls>
+  <source src="" type="audio/mpeg">
+Either there is no audio file, or your browser does not support this audio file.
+</audio>
+</div>
+</div>
+<div>
+<img src="witcher3.jpg" alt="The Witcher 3: Wild Hunt Box Art">
+<div class = "text">
+<h3>Released on : May 19, 2015</h3>
+<p> The Witcher 3: Wild Hunt was developed with the goal of creating a complex story without compromising the open world. It succeeds in this area, with dialogue trees and multiple endings, complimented by a vibrant open world that rivals the best. The main character, Geralt of Rivia, is a renowned monster hunter searching for his kidnapped daughter. </p>
+</div>
+</div>
+<div>
+<p class = "linktext"> You can find more information about the game here: 
+	<a href="https://www.thewitcher.com/us/en/witcher3#home">Official Witcher 3 Website</a>
+</p>
+</div>
+</body>
