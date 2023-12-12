@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="../css/GamePageStyleSheet.css" rel="stylesheet"/>
+<title>SuperMetroid</title>
+</head>
+<body>
+<div>
+<h1>Super Metroid</h1>
+<div>
+<audio controls>
+  <source src="smetcra2" type="audio/mpeg">
+Either there is no audio file, or your browser does not support this audio file.
+</audio>
+</div>
+</div>
+<div>
+<img src="smet_box.jpg" alt="Super Metroid Box Art">
+<div class = "text">
+<h3>Released on : March 19, 1994</h3>
+<p> Super Metroid is one of 2 games that spawned the Metroidvania genre, games known for nonlinear, looping level design that, while still technically linear, gave players the first feelings of autonomy and open-endedness in video games. Set on planet Zebes, galactic bounty hunter Samus Aran sets out to retreive the baby metroid after it was stolen by the space pirate Ridley. </p>
+</div>
+</div>
+<div>
+<p class = "linktext"> You can find more information about the game here: 
+	<a href="https://en.wikipedia.org/wiki/Super_Metroid">Super Metroid Wikipedia Page</a>
+	<a href="https://www.nintendo.co.jp/n02/shvc/ri/index.html">Official Page from 1994 (Japanese)</a>
+</p>
+<a href="index.html">Home</a>
+</div>
+</body>
